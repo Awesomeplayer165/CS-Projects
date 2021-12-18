@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobtrentini/Documents/GitHub/LINQ-cs/Queries/Queries.csproj",
+      "projectUniqueName": "/Users/jacobtrentini/Documents/GitHub/CS-Projects/Queries/Queries.csproj",
       "projectName": "Queries",
-      "projectPath": "/Users/jacobtrentini/Documents/GitHub/LINQ-cs/Queries/Queries.csproj",
+      "projectPath": "/Users/jacobtrentini/Documents/GitHub/CS-Projects/Queries/Queries.csproj",
       "packagesPath": "/Users/jacobtrentini/.nuget/packages/",
-      "outputPath": "/Users/jacobtrentini/Documents/GitHub/LINQ-cs/Queries/obj/",
+      "outputPath": "/Users/jacobtrentini/Documents/GitHub/CS-Projects/Queries/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jacobtrentini/.nuget/NuGet/NuGet.Config"
