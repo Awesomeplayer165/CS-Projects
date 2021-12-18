@@ -1,5 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace Queries 
 {
@@ -34,10 +36,6 @@ namespace Queries
         FavoriteSport: {person.FavoriteSport}
                 ");
             }
-
-            var text = File.ReadAllText("words_dictionary.json");
-            mydictionary = JsonConvert.DeserializeObject<Dictionary<string, int>>(text);
-            
         }
     }
 
