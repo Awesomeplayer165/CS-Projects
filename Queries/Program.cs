@@ -15,7 +15,7 @@ namespace Queries
 
             Console.WriteLine(roneet.Id);
 
-            var people = new List<Person>() {};
+            var people = new List<Person>() {new Person(), new Person(), new Person(), new Person(), new Person(), new Person(), new Person(), new Person(), new Person()};
 
             // // Query #1.
             // IEnumerable<int> filteringQuery =
@@ -34,7 +34,7 @@ namespace Queries
                 from item in groupingQuery
                 group item by item[0];
 
-            foreach (var food in groupingQuery) { Console.WriteLine(food); }
+            // foreach (var food in groupingQuery) { Console.WriteLine(food); }
         }
     }
 
@@ -65,11 +65,11 @@ namespace Queries
             idCounter ++;
         }
 
-        public Person(int aAge)
+        public Person()
         {
             Id            = idCounter;
             Name          = $"Person {Id}";
-            Age           = aAge;
+            Age           = Id;
             FavoriteSport = Id %2 == 0 ? Sports.basketball : Sports.soccer;
 
             idCounter ++;
