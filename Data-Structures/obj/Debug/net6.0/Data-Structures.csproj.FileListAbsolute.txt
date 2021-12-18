@@ -1,0 +1,15 @@
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.csproj.AssemblyReference.cache
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.AssemblyInfoInputs.cache
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.AssemblyInfo.cs
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.csproj.CoreCompileInputs.cache
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/Data-Structures
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/Data-Structures.deps.json
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/Data-Structures.runtimeconfig.json
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/Data-Structures.dll
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/ref/Data-Structures.dll
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/bin/Debug/net6.0/Data-Structures.pdb
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.dll
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/ref/Data-Structures.dll
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.pdb
+/Users/jacobtrentini/Documents/GitHub/CS-Projects/Data-Structures/obj/Debug/net6.0/Data-Structures.genruntimeconfig.cache

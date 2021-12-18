@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Queries/bin/Debug/net6.0/Queries.dll",
+            "program": "${workspaceFolder}/Data-Structures/bin/Debug/net6.0/Data-Structures.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Queries",
+            "cwd": "${workspaceFolder}/Data-Structures",
             "console": "internalConsole",
             "stopAtEntry": false
         },
